@@ -1,6 +1,6 @@
 import React from "react";
 import AuthorInput from "./features/books/AuthorInput";
-import Authors from "./features/books/Authors";
+import Authors from "./features/authors/Authors";
 import BookInput from "./features/books/BookInput";
 import Books from "./features/books/Books";
 
