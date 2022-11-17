@@ -4,7 +4,7 @@ import booksReducer from "./features/books/booksSlice";
 
 const rootReducer = combineReducers({
   authors: authorsReducer,
-  books: booksReducer,
+  books: booksReducer
 });
 
 export default rootReducer;
